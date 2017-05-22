@@ -1,4 +1,9 @@
 from django.http import HttpResponse
 
-def index(request):
-    return HttpResponse( '<h1>Lista de musica</h1>');
+def pedro(request):
+    return  HttpResponse ('<h1>lista de musica</h1>');
+
+
+
+
+
